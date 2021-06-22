@@ -1,0 +1,17 @@
+{
+	"name": "03-weather-console-app",
+	"version": "1.0.0",
+	"description": "Node Weatehr Console App",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "Luciano Reguera",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"colors": "^1.4.0",
+		"dotenv": "^10.0.0",
+		"inquirer": "^8.1.1"
+	}
+}
